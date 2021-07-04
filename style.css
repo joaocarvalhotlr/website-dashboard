@@ -427,6 +427,7 @@ body {
 
     .toggle.active::before {
         color: #fff;
+        background: #360047;
     }
 
     .main,
